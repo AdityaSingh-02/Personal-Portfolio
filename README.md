@@ -1,5 +1,8 @@
 # Getting Started with Create React App
-# This is My Personal Portfolio i will Keep it Improving Time by time
+# This is My Personal Portfolio I will Keep it Improving Time by Time
+## Hope You Like it.
+
+For running this on your local system you need to install NodeJs and After that you need to run cd-portfolio -> npm start
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
