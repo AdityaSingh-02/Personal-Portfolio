@@ -30,7 +30,7 @@ function Navbar() {
 
   return (
     <>
-      <div className="Navbar fixed flex justify-between items-center h-20 w-[100%] px-8 z-10 text-white ">
+      <div className="Navbar fixed flex justify-between items-center h-20 w-[100%] px-9 z-10 text-white ">
         <div className="heading text-4xl font-signature">Aditya</div>
         <ul className='hidden md:flex'>
           {navigations.map(({ id, navigate, link }) => (
